@@ -46,5 +46,5 @@ As part of coursework on Neuro-symbolic AI, I earned this badge for demonstratin
 * Explain the **logical interpretation of LNN models**.
 
 🔗 **https://www.credly.com/badges/d2a9e4b2-b718-4267-9c05-6ae8e3c9b935**  
-[View Certificate]([[./Neuro-Symbolic_AI_Reasoning_Badge.pdf](https://github.com/akilasampath5/LNN/blob/AkilaSampath-Badge/Neuro_Symbolic_AI_Essentials_Badge20231210-29-62js8v.pdf)](https://github.com/akilasampath5/LNN/blob/AkilaSampath-Badge/Neuro_Symbolic_AI_Essentials_Badge20231210-29-62js8v.pdf))
+[View Certificate](https://github.com/akilasampath5/LNN/blob/AkilaSampath-Badge/Neuro_Symbolic_AI_Essentials_Badge20231210-29-62js8v.pdf)]
 
